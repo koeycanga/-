@@ -1,7 +1,7 @@
 package com;
 
 public class DLAMBean {
-//
+//123
 	private int fileflag;
 	private int end;
 	private String mh_cid;
